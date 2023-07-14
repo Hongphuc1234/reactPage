@@ -171,7 +171,6 @@ import axios from '../api/axios'
                     <span className="form-message"></span>
                     {errors['email'] !== '' && <span className="error">{errors['email']}</span>}
                 </div>
-
                 <div className="form-group">
                     <label  className="form-label">Số điện thoại</label>
                     <input id="phone" name="phone" type="text" placeholder="Nhập mật khẩu"
