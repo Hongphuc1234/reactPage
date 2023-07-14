@@ -74,7 +74,7 @@ import axios from '../api/axios'
         }
       }
       if(!password){
- 
+
       }
       if(!confirmPassword){
         formIsValid=false
